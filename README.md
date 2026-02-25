@@ -1,118 +1,137 @@
-💻 Fahim Bin Omar
+🚀 Fahim Bin Omar
 
-🚀 Full-Stack Developer | AI & Data Enthusiast | MSc Computer Science
-📍 London, United Kingdom
+Full-Stack Software Engineer | AI Systems Builder | MSc Computer Science (UK)
+London, United Kingdom
 
-👋 About Me
+Building scalable systems, intelligent applications, and production-ready full-stack platforms.
 
-I’m an MSc Computer Science student passionate about building scalable full-stack systems and intelligent AI-powered applications.
+🧠 About Me
 
-I focus on:
+I design and build high-performance full-stack applications and apply AI-driven solutions to real-world problems.
 
-Designing production-ready web applications
+My focus:
 
-Building data-driven systems
+Scalable backend architecture
 
-Applying AI to solve real-world problems
+Intelligent data systems
 
-Writing clean, maintainable, scalable code
+Clean frontend engineering
 
-Currently working on full-stack and AI projects combining Next.js, Node.js, PostgreSQL, and Machine Learning.
+Production-ready AI pipelines
 
-🛠 Tech Stack
-💻 Languages
+I care about writing code that is:
 
-JavaScript / TypeScript
+Maintainable
 
-Python
+Efficient
 
-SQL
+Systematically designed
 
-Java
+Built for scale
 
-C
+⚙️ Technical Stack
+Languages
 
-⚙️ Backend
+TypeScript • JavaScript • Python • SQL • Java • C
 
-Node.js
+Frontend Engineering
 
-Express.js
+Next.js • React • Tailwind CSS • Responsive UI Systems
 
-Prisma ORM
+Backend & APIs
 
-REST APIs
+Node.js • Express.js • Prisma ORM • REST Architecture • Authentication Systems
 
-🎨 Frontend
+Databases
 
-React.js
+PostgreSQL • MongoDB
 
-Next.js
+AI / Data Engineering
 
-Tailwind CSS
+TensorFlow • Keras • Scikit-Learn • Pandas • NumPy • Apache Spark
 
-🗄 Database & Cloud
+Cloud & Tools
 
-PostgreSQL
+AWS (S3, EC2) • Git • Docker (Foundational)
 
-MongoDB
-
-AWS (S3, EC2 basics)
-
-🤖 AI / Data
-
-TensorFlow / Keras
-
-Scikit-Learn
-
-Pandas / NumPy
-
-Data Visualization
-
-🚀 Featured Projects
+🏆 Featured Engineering Work
 🧠 Full-Stack AI Inventory & Expense Intelligence System
 
-A scalable grocery and expense tracking platform with:
-
-AI-powered insights
-
-QR-based product tracking
+Production-ready full-stack application featuring:
 
 Secure authentication
 
-Real-time expense analytics
+QR-based product tracking
 
-Tech: Next.js 14, Express.js, PostgreSQL, Prisma, Tailwind
+AI-powered analytics engine
 
-🧠 Brain Tumor MRI Classification (Deep Learning)
+Real-time expense insights
 
-CNN-based medical AI model for tumor detection from MRI images.
+PostgreSQL relational design
 
-Tech: TensorFlow, Keras, Python
+Stack: Next.js 14 • Express.js • Prisma • PostgreSQL • Tailwind
 
-📊 Big Data Analytics with Spark
+Demonstrates:
 
-Data processing & analytics using distributed computing techniques.
+System architecture design
 
-Tech: Apache Spark, Python
+Database modelling
 
-📈 What I’m Currently Improving
+API structuring
 
-System Design
+Clean UI engineering
 
-Cloud Architecture
+AI integration
 
-Scalable Backend Development
+🧠 Deep Learning: Brain Tumor MRI Classification
 
-Production-ready AI systems
+Medical AI model using CNNs for tumor detection.
 
-🎯 Career Goals
+Image preprocessing pipeline
 
-Seeking:
+Data augmentation
 
-Graduate Software Engineer roles
+Transfer learning experimentation
 
-AI / Data Engineering roles
+Performance comparison across architectures
 
-Cloud & Backend positions in London
+Stack: TensorFlow • Keras • Python
 
-I aim to build systems that are scalable, intelligent, and impactful.
+📊 Distributed Big Data Analytics
+
+Large-scale dataset processing and analytics using Apache Spark.
+
+Distributed transformations
+
+Aggregation pipelines
+
+Performance comparison
+
+Data-driven insights
+
+📈 Engineering Strengths
+
+Backend architecture design
+
+RESTful API structuring
+
+Database schema modelling
+
+AI experimentation & evaluation
+
+Analytical problem solving
+
+Clean Git workflow & version control
+
+🎯 Currently Advancing
+
+Scalable system design
+
+Cloud-native architecture
+
+Production AI deployment
+
+Advanced backend optimization
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahimomar&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimomar&layout=compact)
